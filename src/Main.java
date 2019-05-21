@@ -4,5 +4,6 @@ public class Main {
         System.out.println("Hello World!");
         System.out.println("This text i added in second commit");
         System.out.println("This is third commit to master branch");
+        System.out.println("New Feature #2");
     }
 }
