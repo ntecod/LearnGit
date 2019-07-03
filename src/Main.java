@@ -7,7 +7,6 @@ public class Main {
         System.out.println("New Feature #2");
         System.out.println("New Feature #3");
         System.out.println("Online commit from githubDOTcom");
-        System.out.println("This line will be deleted from github.com soon");
         System.out.println("This line have been added from github.com");
     }
 }
